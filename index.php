@@ -7,7 +7,7 @@
 <body>
     <h1>Exemplos em PHP</h1>
 
-<!--Yasmin Tonietti, 4° Bimestre, Lógica da Programação-->
+<p>Yasmin Tonietti, 4° Bimestre, Lógica da Programação</p>
 
 <?php
 date_default_timezone_set ('America/Sao_Paulo');
